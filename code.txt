@@ -1,3 +1,4 @@
 My name is Rick
 
 this is line 3
+Another line in the file

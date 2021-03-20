@@ -1,4 +1,5 @@
 A line for code3.txt
 
 My name is Rick
+Simulated code merge
 This is a test

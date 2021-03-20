@@ -1,1 +1,4 @@
 A line for code3.txt
+
+My name is Rick
+This is a test

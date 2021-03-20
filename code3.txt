@@ -8,3 +8,6 @@ git fetch = download
 git pull = download and save (overriding previous save)
 git merge = save and override
 
+My name is Rick
+Simulated code merge
+This is a test

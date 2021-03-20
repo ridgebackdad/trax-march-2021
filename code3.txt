@@ -1,1 +1,10 @@
 A line for code3.txt
+
+Another reason to check your work
+
+
+
+git fetch = download
+git pull = download and save (overriding previous save)
+git merge = save and override
+
